@@ -1,0 +1,140 @@
+.clear{clear: both;}
+
+
+.Paging h4 {
+
+	font-weight: normal;
+	color: #7B8995;
+	float: left;
+	padding: 2px 15px 0px 2px;
+}
+.Paging .NextBack {
+	width: 295px;
+	float: left;
+	height: 22px;
+	padding-left: 1px;
+}
+.Paging .SelectText{
+	float: right;
+	width: 128px;
+	border: 1px solid #A9C0D8;
+}
+
+
+.Paging .NextBack .Back {
+	float: left;
+	padding-right: 5px;
+	padding-left: 5px;
+	padding-top: 2px;
+}
+.Paging .NextBack .Next {
+	float: left;
+	padding-right: 5px;
+	padding-left: 5px;
+	padding-top: 2px;
+}
+.Paging .NextBack a {
+	font-family: tahoma;
+	font-size: 11px;
+	font-weight: normal;
+	color: #00BCE4;
+	display: block;
+}
+.Paging .NextBack .SelectPgeNum {
+	float: left;
+	border:1px solid #A9C0D8;
+	height: 20px;
+	width: 50px;
+	font-size: 11px;
+}
+.Paging .NextBack span{
+	color: #FF7200;
+	float: left;
+	padding-top: 2px;
+}
+
+
+
+/* For PrayerTime */
+.menuselected{
+    border-bottom:2px solid #216383 ;
+    font-family: tahoma;
+    font-size: 12px;
+    font-weight: bold;   
+}
+.menu_date a{
+    
+    color: #216383;
+    text-decoration: none;
+}
+.menu_date
+{
+   border-right:1px solid #ccc ;
+    font-family: tahoma;
+    font-size: 12px;
+    text-align: center;
+}
+/**/
+
+.portalpage .vicon{margin-bottom: 30px;}
+
+.right-nav .Folder{color: #002d6a;  position: relative;  z-index: 1;   margin: 0 8px 0 0; 
+  font: normal normal normal 1.7em/1 FontAwesome;}
+  
+.tab_content .selected{background: #002d6a;box-shadow: 0 0 20px #757575; }
+.tab_content .selected a{color:#fff;}
+
+/*.jp-play{transition: none !important;}*/
+div.jp-type-playlist div.jp-playlist li.jp-playlist-current{list-style: none !important;}
+
+.floatr1{float: right;}
+
+/*.GlobalShareBox{line-height: 0;}*/
+
+.fouritems div{
+    height: 135px;
+    }
+    
+/*.mainitemdetails ul,.articdils .iteminfo,.articdils .itemshare{width: 58%;}*/
+.bodytext{font-size:1.1em;padding: 0 10px 0 10px;}    
+
+@media (max-width:1500px) {
+    
+.islambg2 .tabsbg{padding-top:10px}
+
+}
+
+@media (max-width:1300px) {
+    
+        /*.floatl{float: none !important;}*/
+#map_canvas{width: 100% !important;}
+.prayertimes .form{clear:both; padding-top:20px;}    
+.prayertimes .inputstyle,.selectinputstyle .inputstyle{width: 99%;}       
+    
+    /*.fouritems div{height: auto;}*/
+}  
+
+
+@media (max-width: 768px)
+{
+
+div#tabs h1 #takalam{width:100px;margin-top: 20px;}
+
+}
+
+
+@media (max-width:480px) {
+    
+.lang li{font-size:14px}    
+    
+div.jp-audio{width:350px !important} 
+/*div.jp-audio div.jp-type-playlist div.jp-progress{width: 150px !important;}
+div.jp-audio a.jp-volume-max, div.jp-audio-stream a.jp-volume-max{left:260px !important;}
+div.jp-audio div.jp-volume-bar{left:280px !important}
+div.jp-audio div.jp-type-playlist a.jp-mute, div.jp-audio div.jp-type-playlist a.jp-unmute{margin-left: 95px !important;}*/
+
+.prayer ul li{width:19.5%;}
+    
+}  
+
+          

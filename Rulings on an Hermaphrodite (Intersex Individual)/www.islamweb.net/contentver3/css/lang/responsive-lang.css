@@ -1,0 +1,372 @@
+.logo a img {
+  width: 265px; }
+
+.portalheader .logo a img {
+  float: none; }
+
+.tophead .lang li {
+  float: none;
+  text-align: left; }
+
+@media screen and (max-width: 767.9px) {
+  .header .logo {
+    margin-right: 0;
+    margin-left: 40px; } }
+@media screen and (max-width: 767.9px) {
+  .header .amobile {
+    float: left; } }
+
+@media screen and (max-width: 767.9px) {
+  .title-page {
+    background-position: top right; } }
+.title-page .menu li a {
+  text-align: left; }
+  .title-page .menu li a img {
+    margin-left: 0;
+    margin-right: 4px; 
+    }
+    
+.title-page h1 {
+  padding-right: 0;
+  padding-left: 10px; }
+
+.modalsidemenu .ai .btn {
+  padding: 15px 0 !important; }
+.modalsidemenu .menu li a i {
+  margin: 0 10px 0 0; }
+
+.font-setting .form-check {
+  padding-right: 0;
+  padding-left: 1.5em; }
+  .font-setting .form-check .form-check-input {
+    float: left;
+    margin-right: 0;
+    margin-left: -1.5em; }
+.font-setting .choice {
+  text-align: left; }
+
+.modallogin .modal-content {
+  margin: auto; }
+
+.modalprofile .modal-content {
+  margin: auto; }
+  .modalprofile .modal-content li {
+    text-align: left; }
+    .modalprofile .modal-content li .num {
+      text-align: right; }
+
+.oneitems li {
+  padding: 15px 5px 15px 40px;
+  background-position: left 10px top 20px; }
+  @media screen and (max-width: 767.9px) {
+    .oneitems li {
+      padding: 15px 5px 15px 40px;
+      background-position: left 10px top 20px; } }
+  .oneitems li:hover {
+    background-position: left 10px top 20px; }
+  .oneitems li .date {
+    text-align: left;
+    float: none; }
+  .oneitems li .info-book samp {
+    float: none; }
+
+@media screen and (max-width: 767.9px) {
+  .booklist-search .inputstyle.input-searchlibrary {
+    border-left: 0;
+    border-right: 0; } }
+
+/*====================================Library*****************/
+.twoslid .owl-item .desc-slide {
+  margin: 0 15px 0 15px; }
+.twoslid .owl-item h2 {
+  margin: 0; }
+.twoslid .owl-item h5 img {
+  margin: 0 5px 0px 0; }
+.twoslid .owl-item p {
+  margin: 0; }
+.twoslid .owl-controls {
+  left: auto !important;
+  right: auto !important; }
+  .twoslid .owl-controls .owl-nav {
+    display: none; }
+
+/*==========================LeftSide=====================*/
+.fatCatleft h3 {
+  background: url(../../img/bg-pattern.png) no-repeat right 20px top; }
+.fatCatleft ul li {
+  padding-left: 10px;
+  padding-right: 10px; }
+.fatCatleft.catblue ul li a {
+  padding-left: 25px;
+  padding-right: 0;
+  background-position: left center; }
+.fatCatleft.catlibrary ul li {
+  background: linear-gradient(#d33e79 0%, #ab1e56 100%) !important;
+  border: 1px solid rgba(112, 112, 112, 0.27); }
+  .fatCatleft.catlibrary ul li a {
+    padding-left: 25px;
+    padding-right: 0;
+    background-repeat: no-repeat;
+    background-position: left center; }
+
+/*========================Listing=======================*/
+.list-topics h3 {
+  background: url(../../img/bg-pattern.png) no-repeat right 20px top; }
+.list-topics ul li {
+  padding: 0 5px; }
+  .list-topics ul li .tree_label a {
+    padding-right: 0;
+    padding-left: 22px;
+    background-position: left center; }
+  .list-topics ul li span {
+    text-align: left; }
+
+/*===================Tarajem=======================*/
+.list-names .dropdown-menu li {
+  text-align: left; }
+.list-names .dropdown-toggle:after {
+  right: 0;
+  left: auto; }
+
+/*====================================3bdat tree category page =======================*/
+.categories .list-cat ul {
+  margin-left: 0;
+  margin-right: 0; }
+  .categories .list-cat ul li {
+    margin-left: 0;
+    margin-right: 0; }
+
+/*-======================Fatwa=================*/
+.fatwalist .oneitems .owl-stage-outer,
+.fatwalist .fatwa-slider .owl-stage-outer {
+  height: auto !important; }
+.fatwalist .oneitems li h2,
+.fatwalist .oneitems .item-slider h2,
+.fatwalist .fatwa-slider li h2,
+.fatwalist .fatwa-slider .item-slider h2 {
+  padding-right: 0;
+  padding-left: 20px;
+  background: url(https://www.islamweb.net/contentver3/img/ico-quest.svg) no-repeat left 0px center; }
+.fatwalist .oneitems li p a,
+.fatwalist .oneitems .item-slider p a,
+.fatwalist .fatwa-slider li p a,
+.fatwalist .fatwa-slider .item-slider p a {
+  padding-right: 17px;
+  padding-left: 0;
+  /*background: url(/contentver3/img/ico-next.svg) no-repeat right center;*/ 
+  }
+.fatwalist .oneitems li .footer-item,
+.fatwalist .oneitems .item-slider .footer-item,
+.fatwalist .fatwa-slider li .footer-item,
+.fatwalist .fatwa-slider .item-slider .footer-item {
+  border-radius: 0px 5px 5px 0; }
+
+.mostviewleft h3 {
+  background: url(../../img/bg-pattern.png) no-repeat right 20px top; }
+.mostviewleft ul li img {
+  margin: 0 5px; }
+.mostviewleft ul li a {
+  padding-left: 0;
+  padding-right: 0; }
+
+.fatwa-slider .top-item .img-item {
+  margin-right: 10px;
+  margin-left: 0; }
+  .fatwa-slider .top-item .img-item .rules {
+    left: 0;
+    right: auto; }
+.fatwa-slider .top-item h2 {
+  text-align: left; }
+
+.item-fatwa {
+  padding: 0; }
+  .item-fatwa h2 {
+    padding-left: 20px;
+    padding-right: 0;
+    background: url(https://www.islamweb.net/contentver3/img/ico-quest.svg) no-repeat left center; }
+  .item-fatwa .footer-item {
+    border-radius: 0px 5px 5px 0; }
+    .item-fatwa .footer-item span {
+      float: none; }
+
+.bg-actions .form-check .form-check-input {
+  float: left;
+  margin-left: -1.5em;
+  margin-right: 0; }
+.bg-actions .form-check {
+  padding-left: 1.5em;
+  padding-right: 0; }
+
+@media screen and (max-width: 767.9px) {
+  .mainitem.quest-fatwa p {
+    text-align: left; } }
+
+/*===========================Mwareth=========================*/
+.forminheritance .row-form > span,
+.forminheritance .row-form > label {
+  text-align: left; }
+
+.note-mwareth {
+  text-align: left; }
+
+.quest-btn svg {
+  margin-left: 0;
+  margin-right: 10px; }
+
+/*===========================Search=======================*/
+.search-page .catblue h3,
+.search-page .catblue h5 {
+  text-align: left; }
+.search-page .catblue .block-search h3 {
+  margin: 0; }
+
+/*=========================Search Result========================*/
+.global-searchresult .result-head {
+  padding: 10px; }
+
+.detailsearchlk {
+  text-align: left; }
+
+/*=============================Fhrs===============================*/
+.booktopsdata .dropdown {
+  text-align: left; }
+  .booktopsdata .dropdown .dropdown-toggle {
+    text-align: left; }
+  .booktopsdata .dropdown .dropdown-item {
+    text-align: left; }
+
+.tabs-modaltabsinfo .tab-content {
+  border-radius: 10px 0 0px 10px; }
+
+.exp-book {
+  padding-right: 10px;
+  padding-left: 0; }
+
+.tree-list li a {
+  text-align: left; }
+
+.close-bookindex {
+  right: 40px;
+  left: auto; }
+
+@media screen and (max-width: 767.9px) {
+  .book-left-nav {
+    left: 0;
+    right: auto; } }
+.first-level .num-page {
+  float: right; }
+.first-level ul {
+  margin-left: 20px;
+  margin-right: 0; }
+  .first-level ul ul {
+    margin-left: 20px;
+    margin-right: 0; }
+
+/*-=======================Audio=================*/
+.audiolist ul .listitems .wrapper-item {
+  padding-left: 20px;
+  padding-right: 0;
+  background-position: top left; }
+  .audiolist ul .listitems .wrapper-item .litem {
+    text-align: right; }
+
+.leftaudios h3 {
+  background: url(../../img/bg-pattern.png) no-repeat right 20px top; }
+  .leftaudios h3 img {
+    float: left;
+    margin-right: 6px;
+    margin-left: 0; }
+.leftaudios h4 {
+  text-align: left; }
+  .leftaudios h4 svg {
+    margin-right: 6px;
+    margin-left: 0; }
+
+.items-suggest ul li .wrapper-item {
+  padding-left: 20px;
+  padding-right: 0;
+  background-position: top 5px left; }
+
+.sounds-list li h2 svg {
+  margin-right: 10px;
+  margin-left: 0; }
+
+.soundlist .sfolder .list-info-sound p svg {
+  margin-right: 5px;
+  margin-left: 0; }
+
+.itemplayer {
+  border-radius: 15px 0 0px 15px; }
+  @media screen and (max-width: 767.9px) {
+    .itemplayer {
+      margin-left: calc(-1% - 10px);
+      margin-right: 0; } }
+
+.buttons-audio {
+  border-radius: 0px 5px 5px 0;
+  justify-content: space-between; }
+  @media screen and (min-width: 768px) {
+    .buttons-audio {
+      justify-content: flex-start; } }
+  .buttons-audio h6 {
+    text-align: left; }
+  @media screen and (min-width: 768px) {
+    .buttons-audio .links-buttons {
+      margin-right: 20px;
+      margin-left: 0; } }
+
+.shaf_player {
+  border-radius: 15px 0 0px 15px;
+  flex-direction: row; }
+  @media screen and (min-width: 768px) {
+    .shaf_player {
+      justify-content: space-between; } }
+  .shaf_player #playerspeed {
+    direction: rtl; }
+
+.audiolist ratingbox {
+  float: right !important; }
+
+/*-=======================Footer=================*/
+.footlink ul {
+  float: none; }
+
+.footapp a {
+  max-width: 40%;
+  display: inline-block; }
+
+.sub-footer {
+  float: left; }
+  @media screen and (max-width: 767.9px) {
+    .sub-footer {
+      float: none; } }
+  .sub-footer .menu-footer-mob a {
+    border-right: 0.5px solid rgba(255, 255, 255, 0.7);
+    border-left: 0; }
+    .sub-footer .menu-footer-mob a:last-child {
+      border-left: 0;
+      border-right: 0; }
+  @media screen and (max-width: 767.9px) {
+    .sub-footer .sub-footer-wrapper {
+      background: url(https://www.islamweb.net/contentver3/img/bg-footer.svg) no-repeat center right; } }
+  .sub-footer .sub-footer-wrapper .logo-app.awkaf img {
+    margin-left: 10px;
+    margin-right: 0; }
+  .sub-footer .footapp a {
+    margin: 0 0;
+    margin-right: 10px; }
+    .sub-footer .footapp a:last-child {
+      margin: 0; }
+  .sub-footer .dropdown li {
+    float: none !important; }
+
+@media screen and (min-width: 768px) {
+  .sub-footer {
+    float: right; } }
+.sub-footer .footapp {
+  margin: 0; }
+
+.list-cat ul li a {
+  padding-right: 0; }
+
+/*# sourceMappingURL=responsive-en.css.map */

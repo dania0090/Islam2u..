@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.islamweb.net	TRUE	/	FALSE	1999999999	PHPSESSID	2koifjskll1nah93n9e952bg63
+.islamweb.net	TRUE	/	FALSE	1999999999	ISLAMWEB_VISITOR_FONT_SELECT	1
+

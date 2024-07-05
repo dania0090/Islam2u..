@@ -1,0 +1,107 @@
+@import url('font-awesome.min.css');
+
+.ratingbox i
+{
+  position: relative;
+}
+/*
+.enlang
+{
+    float: left;
+}
+*/
+.arlang
+{
+    float: right;
+}
+
+.ratingbox
+{
+    display: block;
+    clear: both;
+}
+
+
+
+.fa-star-half-empty:after, .fa-star-half-full:after, .fa-star-half-o:after {
+    content: "\f089";
+    transform: rotateY(-180deg);
+    display: inline-block;
+    left: 47%;
+    position: absolute;
+    top: 0;
+    overflow: hidden;
+}
+
+/*  theme 1 */
+
+.rated1,.fa-star-half-o1{
+
+    color: #ffab00;
+    cursor: pointer;
+}
+.unrated1,.fa-star-half-o1:after{
+
+    color: #757575;
+    cursor: pointer;
+}
+
+/*  theme 2 */
+.rated2,.fa-star-half-o2{
+
+    color: #ab1e56;
+    cursor: pointer;
+}
+
+.unrated2,.fa-star-half-o2:after{
+
+    color: #757575;
+    cursor: pointer;
+}
+
+/*  theme 3 */
+.rated3,.fa-star-half-o3{
+
+    color: #002d6a;
+    cursor: pointer;
+}
+
+.unrated3,.fa-star-half-o3:after{
+
+    color: #757575;
+    cursor: pointer;
+}
+
+/*  theme 4 */
+.rated4,.fa-star-half-o4{
+
+    color: #006f51;
+    cursor: pointer;
+}
+
+.unrated4,.fa-star-half-o4:after{
+
+    color: #757575;
+    cursor: pointer;
+}
+
+/*  theme 5 */
+.rated5,.fa-star-half-o5{
+
+    color: red;
+    font-size: 22px;
+    text-shadow: 2px 2px #ccc;
+    cursor: pointer;
+}
+
+.unrated5,.fa-star-half-o5:after{
+    font-size: 22px;
+    color: #fff;
+    text-shadow: 2px 2px #ccc;
+    cursor: pointer;
+}
+
+
+
+
+

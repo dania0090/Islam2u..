@@ -1,0 +1,87 @@
+body {font-size:17px; line-height:25px; font-family:'Comfortaa',/*'GESSTwo',*/ arial; direction: ltr;}
+
+.logo a img {width: 365px;/*height: 58px;*/}
+
+.lang, .logo, .menu li, #tabs h1, .tbright, div.newsbc samp, .itemslist > div > img, div.newsbc samp, .tbright > div > img, .tbleft ul li a, .b-articles, .b-news, .b-articles h3 img,
+.b-news h3 img, .weather h1 img, .prayer h1 img, .homegallery h1 img, .homeposts h1 img, .homeviews h1 img, .homedeaf h1 img,
+.prayer h6 img, .weather h5 i, .weather h5 sub, .weather h5, .homegallery, .homeposts, .homeviews, .footlink, .footlink ul, .footlng, .lang li,.right-nav, .mainitem > samp, .mainitem .owl-item > div samp,
+.fouritems li, .sectitle img, .voteblock h1 img, .articdils > samp, /*.articdils .iteminfo, .articdils .itemshare,*/ .quotedets, .quotedets i, .mmor, .newsbar h4, .forblock,
+.three li, .four li, .hflot h5, .two li, .pag-new li, .soudsort li, .floatr, .fatCatleft li {float: left;}
+
+.social, .menu, .mainslider .owl-item section a, .tbright > div .categorynem, .itemslist > div .categorynem, .tbleft, .left-nav, .weather h6, .linkblok, .homeposts h5 span, .footlogo,
+.amobile, .homeviews ul li samp, .tabsbg2 #tabstwo, .tree u, .hflot h4, .rwayabar ol, .namelist h2 samp, .floatl, .pag-title ul.pag-new, .soudsort ul, .listitems span.stars  {float: right;}
+
+
+.b-thre .left-nav:after {right: -200px;margin-left:-4%;}
+.dark:after {right: -200px; left: -20px; margin-left: 0%;}
+.homeviews ul li {margin-left:0; margin-right: 25px;}
+ 
+.tbleft ul li a, div.newsbc samp {margin-right: 10px;}
+.b-articles .owl-controls, .b-news  .owl-controls, .homegallery .owl-controls {right:45px;}
+.footapp {margin: 15px auto;}
+
+.fancybox-close-small {left: auto !important; right: 0;}
+.mainslider .owl-item section h3{border-left: 5px solid #ab1e56;}
+.lang li:first-child {border: none; box-shadow: 0 0;}
+
+.articlemain .owl-next {right:50px; left: auto;}
+.articlemain .owl-prev {right:0px; left: auto;}
+.footlogo img + img {border-left: 1px solid #757575; padding-left: 15px;}
+@media (max-width:1024px) {
+	.left-nav, .homegallery, .homeposts, .homeviews, .b-thre  .left-nav  {float: left;}
+
+}
+
+
+ /* En Only */
+.footlink { width: 17%; }
+.footlogo {width: 32%;}
+.footapp a + a {margin-left:26px;}
+.soudsort:before {left: 11px; right: auto;}
+
+.mainslider .owl-item section p {margin-right: 0px;margin-left: 5px;}
+.owl-item * {direction: ltr;}
+.mainslider .owl-item section {left:20%; right:auto;}
+
+.srbarsubmit {left :auto; right: 0px;}
+.searchbar i {    left:auto; right: 60px;}
+.websearch {left:auto; right: 120px;} 
+.suscribirse input {border-radius: 3px 3px 0 3px;}
+.suscribirse a {left:auto; right:0; border-radius: 0 3px 3px 0;}
+.portalheader .logo a img,.portalheader .menu a img, .leftblock h3 img, .oneitems p img {float: left;}
+.iteml01 span, .fatCatleft.right span {float: right;}
+.mainitem samp {margin-right: 10px;margin-left:0px;}
+.leftblock h3 img {    margin-right: 6px;    margin-left:0px;}
+.fatCatleft.right h3 img {float: left;    margin-right: 6px; margin-left: 0;}
+.searchleft > div input, .searchleft > div select {float: left;}
+.portalheader ol li a:after {content: "\f101";}
+.mainitemtitle img {float: left;}
+.mainitemtitle span {float: right;}
+.form div>label {text-align: right;}
+.form>div>div {float: right;margin-left:0%;margin-right: 6%;}
+.oneitems span {float:right;}
+/*.itemshare {float:right;}
+/*.mainitemdetails ul {float: left;}
+.iteminfo {float:right;}*/
+.iteminfo span {padding-right: 6px;}
+label.tree_label:before {float: left; margin:-8px 10px 0 0; transform: scale(1, 1);}
+.tree li span:before {margin-left:0px;margin-right: 10px; }
+.itemslist .iteminfo { float: left;}
+.fatCatleft li > i {left: auto; right: 0;}
+.imginheritance {
+    background: url(../../img/inheritance-en.png) top center no-repeat;
+    min-height: 130px;
+}
+label.labelradio, .h3info {padding-right:0px; margin-left:0px;padding-left: 32px; margin-right: 10px;}
+.forminheritance label.labelradio { margin-left:0; margin-right: 25%;color: #ab1e56; font-weight: bold;}
+label.labelradio:before, .h3info:before {right: auto; left: 0;}
+.labelradio input[type="radio"] + samp {right: 0; left: 7px;}
+.h3info {text-align: center;}
+.h3info input + i:after {right: 0; left: 3px;}
+.islam-title {line-height: 1.5em;}
+.prayer h6 img {margin-right: 10px;}
+.islambg2 { background: url(../../img/islam-bg22_2.jpg) top right no-repeat; }
+.hajj-bg.islambg2 {background: url(../../img/hajj-bg3.png) top right no-repeat;}
+.islambg2 .tabsbg.linkedtab h1.active:before { content: ""; position: absolute; background: #002d6a; right: -5px; left: -7px; top: 0; bottom: 0; width: 7px; }
+.oneitems p img {margin-right: 10px;}
+.homeposts h1 a {float: right;}

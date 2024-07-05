@@ -1,0 +1,185 @@
+
+
+/********* extra styles ****************************/
+
+.iteml01 span {
+    background: #757575;
+    color: #fff;
+    padding: 2px 6px;
+    min-width: 50px;
+    display: block;
+    float: right;
+    margin: 0 10px;
+    text-align: center;
+}
+
+.list-cat ul li a {
+    padding-left: 25px;
+    background-position: left center;
+}
+  .fatCatleft.catblue ul li:hover a {
+  color:#fff; 
+}
+
+.fatwalist .oneitems li h2.articletitle,.fatwalist .item-fatwa h2.articletitle {
+    padding-right: 0;
+    padding-left: 20px;
+    background: url(https://www.islamweb.net/contentver3/img/ico-bookitem.svg) no-repeat left 0px center;
+}
+
+
+.fatwalist li.morelink:hover a
+{
+	color:#AB1E56 !important;
+	 
+}
+
+.fatwalist .fouritems h2 {
+	padding:2px;
+	line-height:1em;
+}
+.fatwa-slider .top-item .img-item .rules {
+    width: auto;
+    
+}
+
+.article-image {
+    max-width: 100%;
+    height: auto;
+    float: left;
+    margin-right: 20px;
+}
+
+/*************************************/
+
+
+
+.clear{clear: both;}
+/*
+.portalheader ol li span
+{
+color: rgba(var(--bs-link-color-rgb), var(--bs-link-opacity, 1));
+}
+*/
+.Paging h4 {
+
+	font-weight: normal;
+	color: #7B8995;
+	float: left;
+	padding: 2px 15px 0px 2px;
+}
+.Paging .NextBack {
+	width: 295px;
+	float: left;
+	height: 22px;
+	padding-left: 1px;
+}
+.Paging .SelectText{
+	float: right;
+	width: 128px;
+	border: 1px solid #A9C0D8;
+}
+
+
+.Paging .NextBack .Back {
+	float: left;
+	padding-right: 5px;
+	padding-left: 5px;
+	padding-top: 2px;
+}
+.Paging .NextBack .Next {
+	float: left;
+	padding-right: 5px;
+	padding-left: 5px;
+	padding-top: 2px;
+}
+.Paging .NextBack a {
+	font-family: tahoma;
+	font-size: 11px;
+	font-weight: normal;
+	color: #00BCE4;
+	display: block;
+}
+.Paging .NextBack .SelectPgeNum {
+	float: left;
+	border:1px solid #A9C0D8;
+	height: 20px;
+	width: 50px;
+	font-size: 11px;
+}
+.Paging .NextBack span{
+	color: #FF7200;
+	float: left;
+	padding-top: 2px;
+}
+
+
+
+/* For PrayerTime */
+.menuselected{
+    border-bottom:2px solid #216383 ;
+    font-family: tahoma;
+    font-size: 12px;
+    font-weight: bold;   
+}
+.menu_date a{
+    
+    color: #216383;
+    text-decoration: none;
+}
+.menu_date
+{
+   border-right:1px solid #ccc ;
+    font-family: tahoma;
+    font-size: 12px;
+    text-align: center;
+}
+/**/
+
+.portalpage .vicon{margin-bottom: 30px;}
+
+.right-nav .Folder{color: #002d6a;  position: relative;  z-index: 1;   margin: 0 8px 0 0; 
+  font: normal normal normal 1.7em/1 FontAwesome;}
+  
+.tab_content .selected{background: #002d6a;box-shadow: 0 0 20px #757575; }
+.tab_content .selected a{color:#fff;}
+
+
+div.jp-type-playlist div.jp-playlist li.jp-playlist-current{list-style: none !important;}
+
+.floatr1{float: right;}
+
+
+
+.fouritems div{
+    height: 135px;
+    }
+    
+
+.bodytext{font-size:1.1em;padding: 0 10px 0 10px;}    
+
+
+@media screen and (max-width: 1024px){
+
+/**** For Fatwa Box ****/
+.list-cat ul li, .nameslist ul li {
+    width: 48% !important;
+    height: 65px;
+}
+
+}
+
+
+
+@media screen and (max-width: 768px){
+
+/**** For Fatwa Box ****/
+.list-cat ul li, .nameslist ul li {
+    width: 100% !important;
+    height: 65px;
+}
+
+}
+
+
+ 
