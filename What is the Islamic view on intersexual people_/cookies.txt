@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.stackexchange.com	TRUE	/	FALSE	1999999999	__cf_bm	2eR2TkTl6A9wPp73Ffxnlpr4hYmB9h3lraf9AMXgJAc-1715071523-1.0.1.1-lI9D5iin1lYVnZuA3vuNxAfleRsY2a4DFXxBaoY04MfNigAb9iPC9srz2CVIzH4g5X8eQouuLK5NdoRfDEnLgw
+islam.stackexchange.com	TRUE	/	FALSE	1999999999	__cflb	0H28vShbbNtTXfgcXeyGxKJCNd6fyBU3uBhCaAY2zj6
+islam.stackexchange.com	TRUE	/	FALSE	1999999999	SameSite	None
+.sstatic.net	TRUE	/	FALSE	1999999999	__cf_bm	GCcItDQsv.DIiSLIVPe2W8zBGbj.jTo2TQiIU.hwQ6U-1715071526-1.0.1.1-fg8T22I6uNkOJuh4g7daDOsvF7p5BFjtUKjCa56yv8ocQVCjpqZHUK2ERJTAm0TVg.8inaZl5JP3ejqH2sl.XQ
+cdn.sstatic.net	TRUE	/	FALSE	1999999999	SameSite	None
+.stackexchange.com	TRUE	/	FALSE	1999999999	prov	9c2b0695-4204-4292-9a41-96651a3bd4e2
+islam.stackexchange.com	TRUE	/	FALSE	1999999999	samesite	none
+
